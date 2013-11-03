@@ -37,6 +37,8 @@ group :development do
   gem "jazz_hands"
 end
 
+gem "paperclip"
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
